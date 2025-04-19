@@ -10,13 +10,57 @@ An advanced virtual pet simulation with persistent memory, emotional intelligenc
 
 ## ✨ Features
 
-### Core Abilities
+### 🛠️ Built With
+
+#### Core Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-2.1.2-1572B6?logo=pygame&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3.36+-003B57?logo=sqlite&logoColor=white)
+
+#### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A7ED2?logo=pytest&logoColor=white)
+![Black](https://img.shields.io/badge/Code%20Style-Black-000000?logo=python&logoColor=white)
+
+## Future Integrations
+
+![Flask](https://img.shields.io/badge/Flask-API%20Support-000000?logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-Web%20UI-61DAFB?logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerize-2496ED?logo=docker&logoColor=white)
+
+## Detailed Technology Stack
+### Core Implementation
+- Python 3.8+: Main application logic
+- Pygame: For graphical rendering and sound
+- SQLite: Local data persistence
+- JSON: Configuration and save files
+
+## Testing & QA
+- pytest: Unit and integration testing
+- unittest: Additional test coverage
+- mypy: Static type checking
+
+## Development Ecosystem
+- Black/Pylint: Code formatting and linting
+- Git/GitHub: Version control and collaboration
+- Poetry: Dependency management (optional)
+
+## Planned Future Tech
+- **Flask**: For web API endpoints
+- **React**: Web-based UI dashboard
+- **Docker**: Containerized deployment
+- **Firebase**: Cloud sync functionality
+
+## Core Abilities
 - 🧠 **Persistent Memory** - Remembers you between sessions
 - ❤️ **Emotional System** - Moods and personality development
 - 📈 **Needs Management** - Hunger, energy, happiness, hygiene
 - 🎓 **Trick Training** - Teach custom commands and skills
 
-### Advanced Capabilities
+## Advanced Capabilities
 - 🌱 **Growth System** - Ages through life stages
 - 🏡 **Virtual Environment** - Customizable living space
 - 🤖 **Voice Interaction** - Responds to voice commands (optional)
@@ -34,7 +78,6 @@ git clone https://github.com/6ofHertz/digital-pet.git
 cd digital-pet
 pip install -r requirements.txt
 Running the Application
-bash
 python src/main.py
 🛠️ Project Structure
 digital-pet/
@@ -54,15 +97,15 @@ Tutorial Guide
 ## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 ```
--> Fork the project
+Fork the project
 
--> Create your feature branch (git checkout -b feature/AmazingFeature)
+Create your feature branch (git checkout -b feature/AmazingFeature)
 
--> Commit your changes (git commit -m 'Add some AmazingFeature')
+Commit your changes (git commit -m 'Add some AmazingFeature')
 
--> Push to the branch (git push origin feature/AmazingFeature)
+Push to the branch (git push origin feature/AmazingFeature)
 
--> Open a Pull Request
+Open a Pull Request
 ```
 
 ## 📜 License
